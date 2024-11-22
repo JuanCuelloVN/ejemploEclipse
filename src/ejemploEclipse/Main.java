@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("Hola" );
 		System.out.println("Este es un comentario escrito para la rama develop");
 		//Estos comentarios tienen falstats de ortrografiA
-		//Estoi en viunes pero nose escribi, solo pogramar
+		//Estoi en viunes pero nose escribi, solo pogramar 
 	}
 
 }
